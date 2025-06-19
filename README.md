@@ -17,9 +17,9 @@
 
 # dependencies
 
-Python 3.7+ # Script runtime
-fzf # Fuzzy finder for selection
-Chromium browser # For video playback
+- Python 3.7+
+- fzf
+- Chromium browser
 
 ## ⚙️ Installation
 
