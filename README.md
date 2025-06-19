@@ -2,10 +2,6 @@
 
 **Transform your terminal into a cinematic command center!**
 
-# 🎬 MovieLink Explorer - Ultimate CLI Movie Streaming Tool
-
-**Transform your terminal into a cinematic command center!**
-
 ## ✨ Features
 
 - 🔍 Intelligent movie search with instant results
