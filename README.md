@@ -23,14 +23,15 @@ Chromium browser # For video playback
 
 ## ⚙️ Installation
 
-````bash
+```bash
 # Download and configure the script
 git clone https://github.com/u-shen/mov-watch.git
 cd mov-watch
 chmod +x movie_stream.py
-'''
+```
 
 ## 🚀 Usage
+
 ```bash
 ./main.py
 [+] Movie Name : Inception
@@ -39,5 +40,4 @@ chmod +x movie_stream.py
 # 1. Select movie using arrow keys + Enter
 # 2. Select links (TAB for multiple) + Enter
 # 3. Enjoy automatic streaming in Chromium!
-'''
-````
+```
